@@ -3,6 +3,11 @@
 再次修改。 
 
 我在bugFix分支上添加。
+
 这是以bugFix基准创建的分支featureB。
 
 我在featureB分支上添加一些东西。 
+
+我在featureA分支上添加的。 
+处理了冲突了。 
+

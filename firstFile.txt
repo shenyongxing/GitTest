@@ -3,3 +3,4 @@
 再次修改。 
 
 我在bugFix分支上添加。
+这是以bugFix基准创建的分支featureB。

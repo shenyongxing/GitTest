@@ -3,4 +3,14 @@
 再次修改。 
 
 我在bugFix分支上添加。
+
 这是以bugFix基准创建的分支featureB。
+
+我在featureB分支上添加一些东西。 
+
+我在featureA分支上添加的。 
+处理了冲突了。
+
+再次添加一点东西。 
+
+为了使用git commit --amend, 我再加点东西。
